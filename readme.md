@@ -23,7 +23,7 @@ A few weeks ago, I heard about a friend searching google for programming related
 
 4) Search the terms about 25 times.
 
-    ![FooBar Accessed!](all_tests_passed.png)
+![FooBar Accessed!](all_tests_passed.png)
 
     - and voila! I finally hit it.
 
